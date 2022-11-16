@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/knowinganddoing"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+  <a href="https://www.youtube.com/channel/UCjm9wK15gVufm2ffUHJ_Isg"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Rahul_Masal_"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
