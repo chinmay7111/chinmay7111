@@ -10,7 +10,7 @@
   <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&size=15&pause=1000&color=D9B528F1&background=1E639700&width=435&lines=The+Master+Of+Computer+Application+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Dr.+D+Y+Patil+School+of+MCA;I+like+%E2%9D%A4%EF%B8%8F+to+learn+and+build+the+web+Application+;also+Mobile+Application+%F0%9F%A4%9E" alt="Typing SVG" /></a></p>
   
   <p align="center">
-    <a href="https://www.youtube.com/channel/UCjm9wK15gVufm2ffUHJ_Isg"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+    <a href="https://www.youtube.com/channel/@diehardmma"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/Chinmay97142276"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -22,9 +22,9 @@
   
   <p align="center">
     <a href="https://www.youtube.com/@diehardmma?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCjm9wK15gVufm2ffUHJ_Isg?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCvDsEnoFOjuZp0b_uN7eflg?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
     <a href="https://www.youtube.com/@diehardmma">
-      <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjm9wK15gVufm2ffUHJ_Isg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCvDsEnoFOjuZp0b_uN7eflg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
      <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/Chinmay97142276?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
     <a href="https://github.com/chinmay7111?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/chinmay7111?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
