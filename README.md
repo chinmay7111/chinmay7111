@@ -21,9 +21,9 @@
   
   
   <p align="center">
-    <a href="https://www.youtube.com/@mmaspot2925?sub_confirmation=1">
+    <a href="https://www.youtube.com/@diehardmma?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCjm9wK15gVufm2ffUHJ_Isg?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
-    <a href="https://www.youtube.com/@mmaspot2925">
+    <a href="https://www.youtube.com/@diehardmma">
       <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjm9wK15gVufm2ffUHJ_Isg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
      <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/Chinmay97142276?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
     <a href="https://github.com/chinmay7111?tab=repositories&sort=stargazers">
