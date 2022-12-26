@@ -10,7 +10,7 @@
   <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&size=15&pause=1000&color=D9B528F1&background=1E639700&width=435&lines=The+Master+Of+Computer+Application+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Dr.+D+Y+Patil+School+of+MCA;I+like+%E2%9D%A4%EF%B8%8F+to+learn+and+build+the+web+Application+;also+Mobile+Application+%F0%9F%A4%9E" alt="Typing SVG" /></a></p>
   
   <p align="center">
-    <a href="https://www.youtube.com/channel/@diehardmma"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+    <a href="https://www.youtube.com/channel/UCvDsEnoFOjuZp0b_uN7eflg"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/Chinmay97142276"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
