@@ -43,7 +43,7 @@
   </h2>
   
   <p align="center">
-    <a href="https://github.com/chinmay7111/my-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinmay7111&repo=clgwebsite&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="my-portfolio"></a>
+    <a href="https://github.com/chinmay7111/my-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinmay7111&repo=my-portfolio&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="my-portfolio"></a>
     <a href="https://github.com/chinmay7111/Node.js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinmay7111&repo=Node.js&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Node.js learning"></a>
     <a href="https://github.com/chinmay7111/chinmayweb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinmay7111&repo=chinmayweb&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
    </p>
